@@ -103,6 +103,7 @@ setup_args = {
     'data_files': data_files,
     'scripts': scripts,
     'include_package_data': True,
+    'use_2to3': True,
     'classifiers': [
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
