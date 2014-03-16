@@ -5,8 +5,8 @@ Scrapy
 .. image:: https://badge.fury.io/py/Scrapy.png
    :target: http://badge.fury.io/py/Scrapy
 
-.. image:: https://secure.travis-ci.org/scrapy/scrapy.png?branch=master
-   :target: http://travis-ci.org/scrapy/scrapy
+.. image:: https://secure.travis-ci.org/webknjaz/scrapy.png?branch=dev-py3k
+   :target: http://travis-ci.org/webknjaz/scrapy
 
 Overview
 ========
@@ -21,7 +21,7 @@ http://scrapy.org
 Requirements
 ============
 
-* Python 2.7
+* Python 2.7 or 3.3
 * Works on Linux, Windows, Mac OSX, BSD
 
 Install
